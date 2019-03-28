@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "0cd154eec3eac3e9bd4f38074bc2612b"
+build_time: [1553698326, 997715000]
+inputs:
+  "/Users/allanwell/Desktop/iOS_Flutter_Communication/iOS_demo/iOS_demo/ViewController.swift": [1553698156, 550115719]
+  "/Users/allanwell/Desktop/iOS_Flutter_Communication/iOS_demo/iOS_demo/AppDelegate.swift": [1553698156, 534742567]
